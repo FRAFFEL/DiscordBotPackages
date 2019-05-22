@@ -1,4 +1,4 @@
-**__All Purpose Cleaner Package__**
+## All Purpose Cleaner Package
 A multi-purpose Discord bot with features. This is not the most updated bot, but works.
 
 **Price: USD$15**
@@ -31,7 +31,7 @@ message delete logs
 config
 ```
 
-**__Multi Bot __**
+## Multi Bot
 Multi Bot is a updated version of 'All Purpose Cleaner Package' with more features and updated methods!
 
 **Price: USD$25**
@@ -42,7 +42,7 @@ Commands/Features:
 TBD // WIP (Same as above package, just more updated, with better config + some more commands).
 ```
 
-**__Simple Bot __**
+## Simple Bot
 Simple bot is simple! Its as simple as that!
 
 **Price: USD$10**
@@ -53,7 +53,7 @@ Commands/Features:
 TBD // WIP (Same as first package, just more updated, with better config - some commands).
 ```
 
-**__Individual Commands __**
+## Individual Commands
 Get individual commands in discord.js. See below list for possible commands!
 
 **Price: Per Command (USD)**
