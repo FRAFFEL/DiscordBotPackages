@@ -32,10 +32,10 @@ config
 ```
 
 ## Multi Bot
-Multi Bot is a updated version of 'All Purpose Cleaner Package' with more features and updated methods!
+Multi Bot is a updated version of 'All Purpose Cleaner Package' with more features and updated methods! It has a config thats over 50 lines, that's alot of config!
 
-**Price: USD$25**
-**Requirements: Node.js w/ npm**
+**Price: USD$35**
+**Requirements: Node.js w/ npm** (Comes with package.json for set up)
 
 Commands/Features:
 ```
@@ -84,7 +84,7 @@ Command List:
 *Max purchase of 4 per session*
 
 **__Bot Hosting__**
-Have your bot hosted on a powerful VPS. 
+Have your bot hosted on a powerful VPS. Please note that control over your bot is limited and restricted, if you have questions please ask in a sales ticket.
 
 **Price: USD$2 - 5**
 **Requirements: discord.js bot**
