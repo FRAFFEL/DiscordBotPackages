@@ -25,6 +25,7 @@ Command List:
 [$2] uptime
 [$4] userinfo
 [$4] weather
+[$4] Screenshare
 ```
 *Max purchase of 4 per session*
 
